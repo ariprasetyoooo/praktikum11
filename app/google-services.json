@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070121638633",
+    "project_id": "praktikum11-7251c",
+    "storage_bucket": "praktikum11-7251c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070121638633:android:33469dae9944f3a79eee78",
+        "android_client_info": {
+          "package_name": "com.example.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070121638633-gdtrpgjngb953irt06kkkt45lnogledh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5ir-X-3rlzix0t434N42z2kSgCrva3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070121638633-gdtrpgjngb953irt06kkkt45lnogledh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
